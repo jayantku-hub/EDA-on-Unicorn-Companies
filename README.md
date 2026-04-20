@@ -1,12 +1,12 @@
-# 📊 Unicorn Companies EDA
+#  Unicorn Companies EDA
 
-## 📌 Overview
+##  Overview
 
 Performed **Exploratory Data Analysis (EDA)** on 1000+ unicorn companies to identify trends in how startups reach billion-dollar valuations and support investment decisions.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 * Analyze trends by **industry, country, and funding**
 * Understand **time to reach unicorn status**
@@ -14,13 +14,13 @@ Performed **Exploratory Data Analysis (EDA)** on 1000+ unicorn companies to iden
 
 ---
 
-## 🛠️ Tools
+##  Tools
 
 Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
-## 🔍 Key Steps
+##  Key Steps
 
 * Data cleaning & preprocessing
 * Feature creation (`years_till_unicorn`)
@@ -29,7 +29,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
-## 📊 Insights
+##  Insights
 
 * Tech-driven industries dominate
 * US & China lead in unicorn count
@@ -37,7 +37,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
-## ▶️ Run
+##  Run
 
 ```bash
 pip install pandas numpy matplotlib seaborn
@@ -46,6 +46,6 @@ jupyter notebook
 
 ---
 
-## 👤 Author
+##  Author
 
 **Jayant Kumar**
